@@ -10,4 +10,5 @@ dependencies = [
     "openai>=2.37.0",
     "pydantic>=2.13.4",
     "python-dotenv>=1.2.2",
+    "tiktoken>=0.13.0",
 ]
